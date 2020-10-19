@@ -1,1 +1,1 @@
-This folder entails the assignments for Assignmment or Homework 1
+This folder entails the filesfor Assignmment or Homework 1
