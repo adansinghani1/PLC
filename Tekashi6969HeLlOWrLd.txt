@@ -1,4 +1,0 @@
-; Move Hello, World! to %s
-DFS Hello, World!
-MOV C*::%s
->>> Hello, World!
